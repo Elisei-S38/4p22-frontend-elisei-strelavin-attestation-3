@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4p22-frontend-elisei-strelavin-attestation-3/static/css/main.b6fdb111.css",
+    "main.js": "/4p22-frontend-elisei-strelavin-attestation-3/static/js/main.dff9320e.js",
+    "index.html": "/4p22-frontend-elisei-strelavin-attestation-3/index.html",
+    "main.b6fdb111.css.map": "/4p22-frontend-elisei-strelavin-attestation-3/static/css/main.b6fdb111.css.map",
+    "main.dff9320e.js.map": "/4p22-frontend-elisei-strelavin-attestation-3/static/js/main.dff9320e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fdb111.css",
+    "static/js/main.dff9320e.js"
+  ]
+}
